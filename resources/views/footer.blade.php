@@ -21,7 +21,7 @@
 
 	<div class="copyright">
 		<div class="container">
-			<p class="pull-left">Privacy policy. (&copy;) 2020</p>
+			<p class="pull-left">Privacy policy. (&copy;) 2026</p>
 			<div class="clearfix"></div>
 		</div> <!-- .container -->
 	</div> <!-- .copyright -->
